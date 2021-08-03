@@ -4,9 +4,9 @@
     "slug": "carbonoGYMproject",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/carbono.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/carbono.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
